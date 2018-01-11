@@ -2,6 +2,9 @@
 #ifndef SHA3_H
 #define SHA3_H
 
+#define SHA3_VERSION 1,1
+#define SHA3_VERSION_STR "1,1"
+
 #define HASH_ERR_BAD_PARAMETER 1
 #define HASH_SUCCESS 0
 
